@@ -1238,7 +1238,7 @@
 		height: 75vh;
 		position: relative;
 		background: #a7a7a7;
-		background-image: url(../../images/banner.jpg);
+		background-image: url(../images/banner.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
